@@ -6,7 +6,7 @@ The data
 we train on are comprised of free surface velocity data as well as porosity data. For example, we include files to postprocess
 and filter the raw (training) data (generated, i.e. calculated or measured, outside of LEAD) and machine learning code to
 predict model parameters for the damage model under consideration.
-Some details about our method can be found in the paper </br>
+Some details about our method can be found in the paper 
 D. N. Blaschke, T. Nguyen, M. Nitol, D. O'Malley, and S. Fensin, "Machine learning based approach to predict ductile damage model parameters for polycrystalline metals",
 [Comput. Mater. Sci. 229 (2023) 112382](https://doi.org/10.1016/j.commatsci.2023.112382) ([arxiv.org/abs/2301.07790](https://arxiv.org/abs/2301.07790)).
 
@@ -15,7 +15,8 @@ D. N. Blaschke, T. Nguyen, M. Nitol, D. O'Malley, and S. Fensin, "Machine learni
 Daniel N. Blaschke, Mashroor Nitol
 
 ## License
-LEAD is distributed according to the [LICENSE](LICENSE) file. All contributions made by employees of Los Alamos National Laboratory are governed by that license.
+O4635 LEAD - LEArning Damage is distributed according to the [LICENSE](LICENSE) file.
+All contributions made by employees of Los Alamos National Laboratory are governed by that license.
 
 
 Copyright (c) 2023, Triad National Security, LLC. All rights reserved.
