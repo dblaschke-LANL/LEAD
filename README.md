@@ -16,7 +16,8 @@ Daniel N. Blaschke, Mashroor Nitol
 
 ## License
 O4635 LEAD - LEArning Damage is distributed according to the [LICENSE](LICENSE) file.
-All contributions made by employees of Los Alamos National Laboratory are governed by that license.
+All contributions made by employees of Los Alamos National Laboratory are governed by that license.</br>
+doi: [10.11578/dc.20230922.5](https://doi.org/10.11578/dc.20230922.5)</br>
 
 
 Copyright (c) 2023, Triad National Security, LLC. All rights reserved.
